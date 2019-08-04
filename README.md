@@ -1,6 +1,6 @@
 # dubbo_demo
 a complete dubbo demo
-# 这是一个多模块的dubbo项目
+# 多模块dubbo项目
 ### 项目中的注意点
 - 项目结构方面  
 1、项目依赖需要统一  
